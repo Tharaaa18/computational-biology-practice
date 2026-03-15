@@ -1,0 +1,10 @@
+#Counting DNA Nucleotides
+
+dna= input("DNA sequnce: ")
+
+A=dna.count("A")
+C=dna.count("C")
+G=dna.count("G")
+T=dna.count("T")
+
+print(A, C, G, T)

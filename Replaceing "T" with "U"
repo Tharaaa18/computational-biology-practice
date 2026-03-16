@@ -1,0 +1,5 @@
+rna=input("Enter the DNA sequnce that should convert: ")
+
+rna=rna.replace("T","U")
+
+print(rna)
